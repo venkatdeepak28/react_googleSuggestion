@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.inner-list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60vw;
+  font-family: 'Roboto';
+}
+.custom-btn {
+  border: 0px;
+  height: 40px;
+  width: 20px;
+  outline: none;
+  background: transparent;
+}
+.inner-img {
+  height: 20px;
+}
